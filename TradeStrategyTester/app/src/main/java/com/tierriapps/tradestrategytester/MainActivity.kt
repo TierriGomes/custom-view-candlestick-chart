@@ -40,5 +40,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    fun printadora(){
+        println("Hello gitHub")
+    }
+
 
 }
