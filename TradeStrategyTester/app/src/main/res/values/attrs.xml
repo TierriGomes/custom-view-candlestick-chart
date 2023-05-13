@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CandleChartView">
+        <attr name="darkMode" format="boolean"/>
+        <attr name="informationTextSize" format="dimension"/>
+        <attr name="paperName" format="string"/>
+    </declare-styleable>
+</resources>
