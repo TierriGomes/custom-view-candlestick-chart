@@ -44,5 +44,9 @@ class MainActivity : AppCompatActivity() {
         println("Hello gitHub")
     }
 
+    fun funcaonogalhoteste(){
+        println("hello galho teste do git rubi")
+    }
+
 
 }
